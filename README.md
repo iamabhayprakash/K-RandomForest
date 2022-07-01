@@ -13,3 +13,5 @@ In the clustering context, the most used approach involve single Random Forest r
 The paper provided to us proposed a new novel Approach namely K Random Forest Method. This Approach is based on Isolation Tree and for each cluster, an Isolation Tree is made.
 
 The results after implementing them and comparing to alternative clustering techniques such as ProxRF comes out to be very promising.
+
+To use file, install RStudio and R Language.
